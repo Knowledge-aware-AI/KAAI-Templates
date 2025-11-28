@@ -7,5 +7,7 @@ This work has been partially supported by the Deutsche Forschungsgemeinschaft (D
 
 \section*{Acknowledgment}
 
-This work has been partially supported by the Deutsche Forschungsgemeinschaft (DFG. grant number 531327426 as part of the Transregional Collaborative Research Centre TRR 408: AgiMo: Data-driven agile planning for responsible mobility).
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – TRR: 408/1 2025 – Project number: 531327426“
+
+This work has been partially supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - TRR: 408/1 2025 – Project number: 531327426 AgiMo: Data-driven agile planning for responsible mobility.
 
