@@ -26,6 +26,11 @@ A common mistake is to focus only on aggregate metrics such as precision, recall
 
 As in programming, a good research habit is to select a set of “unit-test” cases and observe them systematically throughout the work. The same applies to the written thesis and the defense: a running example is essential for explaining theoretical concepts.
 
+### 5. "If I Had More Time, I Would Have Written a Shorter Letter"
+
+Generating content is cheap in times of GenAI, but quantity is often counter to understanding, and to quality. Less is more. Think carefully about what you want to communicate, both in meetings, as well as in the thesis and the defense. Most slides contain too much content.
+
+
 ## Thesis defenses
 
 Defenses consist of a 20-minute presentation followed by up to 20 minutes of questions and answers. In the age of generative AI, we take the Q&A part particularly seriously. Expect us to open the thesis at random pages and ask you to explain concepts from it.
