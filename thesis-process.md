@@ -49,7 +49,7 @@ We use the following rubric:
 
 | Grade | Thesis | Presentation | Q&A |
 | --- | --- | --- | --- |
-| 1 | Significant insights on the analyzed problem, backed by technically sound experiments or analyses; excellent overall presentation. | Didactically excellent, well-structured, and well-designed presentation. | Mastery of the technical content and a strong ability to think beyond the immediate scope of the thesis. |
+| 1 | Significant insights on the analyzed problem, backed by technically sound experiments or analyses; excellent overall presentation. | Didactically excellent, well-structured, and well-designed presentation. | Full mastery of the technical content and a strong ability to think beyond the immediate scope of the thesis. |
 | 2 | Solid insights on the analyzed problem. Technical execution with only minor limitations. Thesis is overall well presented. | Well understandable, with only minor issues, for example in legibility, balance, or pace. | The student owns their topic and can give reasonable answers to all technical questions. |
 | 3 | … | … | … |
 
