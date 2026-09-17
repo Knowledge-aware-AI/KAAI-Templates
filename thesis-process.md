@@ -1,6 +1,6 @@
 # Conducting a Thesis in Our Group
 
-Theses in our group are typically advised by a doctoral researcher, with occasional involvement from Prof. Razniewski. University theses have a somewhat unusual setup: for most of the process, we are your advisors, working with you to submit a strong thesis. At the end, we change hats and become examiners, tasked with evaluating your work fairly according to the standards of the degree.
+Theses in our group are typically primarily advised by a doctoral researcher, with periodic involvement of Prof. Razniewski. University theses have a somewhat unusual setup: for most of the process, we are your advisors, working with you to submit a strong thesis. At the end, we change hats and become examiners, tasked with evaluating your work fairly according to the standards of the degree.
 
 The following guidance explains how to make us happy as examiners—and, more importantly, how to give your thesis the best chance of succeeding.
 
