@@ -20,6 +20,8 @@ Proper research is not a single linear *design → implement → analyze* pass.
 
 Do not write your thesis in the final two weeks. Start writing on day one. This reduces last-minute stress for you and gives us written material on which we can provide timely, asynchronous feedback.
 
+Plan time for feedback. Sending a thesis draft 1 week before the deadline does not give us enough time for feedback, nor you enough time to incorporate our feedback.
+
 ### 4. Make examples central
 
 A common mistake is to focus only on aggregate metrics such as precision, recall, or accuracy. You need to inspect the actual data to understand whether something works and where it fails.
@@ -30,10 +32,13 @@ As in programming, a good research habit is to select a set of “unit-test” c
 
 Generating content is cheap in times of GenAI, but quantity is often counter to understanding, and to quality. Less is more. Think carefully about what you want to communicate, both in meetings, as well as in the thesis and the defense. Most slides contain too much content.
 
+## Extensions
+
+The time allotted for theses is limited for good reasons - both fairness to other students, and for your own protection. If there are good reasons for an extension, we generally support this. However, you should notice such situations early, and act then. If you notice 1 week before the submission deadline that HPC outages 3 months ago set you back, this indicates poor planning, and likely will only lead to major stress (whether the extension is granted or not, etc.).
 
 ## Thesis defenses
 
-Defenses consist of a 20-minute presentation followed by up to 20 minutes of questions and answers. In the age of generative AI, we take the Q&A part particularly seriously. Expect us to open the thesis at random pages and ask you to explain concepts from it.
+Defenses consist of a 20-minute presentation followed by up to 30 minutes of questions and answers. In the age of generative AI, we take the Q&A part particularly seriously. Expect us to open the thesis at random pages and ask you to explain concepts from it.
 
 ## Mandatory outputs
 
