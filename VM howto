@@ -1,0 +1,8 @@
+Getting VMs
+1. Get VM
+  - Initial login via initial login/password provided in enterprise VM console
+  - host content
+  - add legal stuff (Accessibility. Imprint. Data Protection)
+2. Buy domain name (namecheap or similar)
+3. Register domain at Cloudflare (gives DNS servers, which need to be inserted at namecheap)
+4. Create ticket for firewall rule that allows outside access (80+443) at TUD Enterprise VM portal
