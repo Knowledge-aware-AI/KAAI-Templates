@@ -12,15 +12,15 @@ Please report your current state at least every two weeks. The precise format ca
 
 ### 2. Do research, not linear task execution
 
-Some students expect us to “greenlight” a thesis plan that they can then execute linearly. This is not how research works. A rough plan is useful, but the challenging part of research is precisely that later findings may motivate substantial changes to earlier decisions: revising hypotheses and assumptions, redesigning experiments, or changing the analysis.
+Some students expect us to “greenlight” a thesis plan that they can then execute linearly. This is not how research works. A rough plan is useful, but the challenging part of research is precisely its iterative nature: revising hypotheses and assumptions, redesigning experiments, or changing the analysis, based on earlier findings.
 
-Proper research is not a single linear *design → implement → analyze* pass.
+Good research is more than a single linear *design → implement → analyze* pass.
 
-### 3. Write early
+### 3. Write early and plan time for feedback
 
-Do not write your thesis in the final two weeks. Start writing on day one. This reduces last-minute stress for you and gives us written material on which we can provide timely, asynchronous feedback.
+Do not touch your writing in the end only. Start writing on day one. Writing is a way of structured thinking, which often helps sustantially to inspect one's own argumentation, inconsistencies, missing aspects, etc.
 
-Plan time for feedback. Sending a thesis draft 1 week before the deadline does not give us enough time for feedback, nor you enough time to incorporate our feedback.
+Plan time for feedback. Send us a first end-to-end thesis draft *at least one month before the submission date*, so we have enough time to read it, and you have enough time to act on the feedback. We reserve the right to not provide feedback if the draft is given to us too close to the deadline.
 
 ### 4. Make examples central
 
