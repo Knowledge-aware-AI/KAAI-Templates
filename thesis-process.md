@@ -10,6 +10,8 @@ The following guidance explains how to make us happy as examiners—and, more im
 
 Please report your current state at least every two weeks. The precise format can differ by case—for example, an in-person meeting, online meeting, or email—but extended periods without contact are a major risk. They remove the opportunity for timely feedback and course corrections.
 
+We expect every MSc. student to give one mid-term presentation (15' presentation) after three months.
+
 ### 2. Do research, not linear task execution
 
 Some students expect us to “greenlight” a thesis plan that they can then execute linearly. This is not how research works. A rough plan is useful, but the challenging part of research is precisely its iterative nature: revising hypotheses and assumptions, redesigning experiments, or changing the analysis, based on earlier findings.
@@ -65,7 +67,7 @@ We use the following rubric:
 
 ## Technical support
 
-Depending on the project, we may be able to provide:
+Depending on the project, we can to provide:
 
 1. A GitHub repository in [Knowledge-aware-AI](https://github.com/Knowledge-aware-AI)
 2. HPC access
